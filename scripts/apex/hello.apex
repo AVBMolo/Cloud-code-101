@@ -6,6 +6,6 @@
 //     SFDX: Execute Anonymous Apex with Editor Contents
 
 string tempvar = 'Avram';
-string tempvar = 'Benjamin';
+string tempvar = 'Molonfalean';
 System.debug('Hello World!');
 System.debug('My name is ' + tempvar);
